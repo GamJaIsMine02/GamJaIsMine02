@@ -80,7 +80,7 @@
 <br>
 
 <summary align="center">
-  <b>🔥 Now Studying & Focusing On
+  <b>🔥 Now Studying & Focusing On </b>
 </summary>
 
 <div align="center">
