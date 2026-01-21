@@ -18,6 +18,7 @@
 
 <br>
 
+<detail>
 <summary align="center">
   <b>💻 Tech Stack 
 </summary>
@@ -49,9 +50,11 @@
 <img src = "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 
 </div>
+</detail>
 
 <br>
 
+<detail>
 <summary align="center">
   <b>🛠️ Tools</b>
 </summary>
@@ -59,25 +62,20 @@
 <br>
 
 <div align="center">
-<!-- I Like -->
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 
 <br>
 <!-- terminal or CI -->
 <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src ="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img src = "https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/>
 
 <br>
 <!-- IDE and notepad -->
-<img src = "https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white"/>
-<img src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src = "https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
 <img src = "https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 
 </div>
+</detail>
 
 <br>
 
