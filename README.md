@@ -18,7 +18,7 @@
 
 <br>
 
-<detail>
+<details>
 <summary align="center">
   <b>💻 Tech Stack 
 </summary>
@@ -50,11 +50,11 @@
 <img src = "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 
 </div>
-</detail>
+</details>
 
 <br>
 
-<detail>
+<details>
 <summary align="center">
   <b>🛠️ Tools</b>
 </summary>
@@ -75,7 +75,7 @@
 <img src = "https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 
 </div>
-</detail>
+</details>
 
 <br>
 
